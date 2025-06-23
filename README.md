@@ -62,7 +62,7 @@ This project is based on the original [G-commerce backend api](https://github.co
 
 - **Backend**
   - Java 21
-  - Spring Boot 3.4.5
+  - Spring Boot 3.4.7
   - Spring Security
   - Spring Data JPA
   - MySQL 9

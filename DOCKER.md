@@ -250,7 +250,7 @@ Example log entry:
 
 ## 🛠️ Technical Stack
 
-- **Backend**: Spring Boot 3.4.4, Spring Security, Spring Data JPA
+- **Backend**: Spring Boot 3.4.7, Spring Security, Spring Data JPA
 - **Frontend**: Thymeleaf, HTMX, Bootstrap 5
 - **Database**: MySQL 9 (separate container)
 - **Logging**: Logback with custom configuration
